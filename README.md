@@ -1,4 +1,4 @@
-# exercicios
+# Exercícios
 
 Aqui constam os exercícios que me foram passados para resolver.
 
